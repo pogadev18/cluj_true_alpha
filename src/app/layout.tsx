@@ -13,6 +13,7 @@ export const metadata: Metadata = {
   description: 'Grupul investitorilor de retail care se intalnesc in persoana.',
 };
 
+// add className="light/dark" to <html> tag to switch color scheme
 export default function RootLayout({
   children,
 }: {
